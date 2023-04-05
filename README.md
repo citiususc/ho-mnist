@@ -1,8 +1,14 @@
 # HO-MNIST
 Hardware Oriented CNN for MNIST recognition.
 
+![HO-MNIST experiment setup](img/setup.jpg)
 
-## Creation of the Harware Oriented model
+
+## Online demo
+You can try an online simulation of our CIM macro! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/citiususc/ho-mnist/HEAD?labpath=Demo.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/citiususc/ho-mnist/blob/master/Demo.ipynb) <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=citiususc/ho-mnist&machine=basicLinux32gb&location=WestEurope"><img src="https://github.com/codespaces/badge.svg" height="20" alt="GitHub Codespaces"></a>
+
+
+## Creation of the Hardware Oriented model
 
 ### Train model
 ```shell

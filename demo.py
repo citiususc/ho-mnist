@@ -18,7 +18,7 @@ SIZE_MULTIPLIER = 20  # So things are not as small
 
 
 def main():
-    # Training settings
+    # Demo settings
     parser = argparse.ArgumentParser(description='Hardware Oriented MNIST test')
     parser.add_argument('--model-path', type=str, default="./models/mnist_quantized_converted.pth",
                         help='MNIST trained model after quantization and conversion')
