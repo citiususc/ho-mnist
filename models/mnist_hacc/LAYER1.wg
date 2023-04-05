@@ -1,0 +1,38 @@
+//Layer 1 of MNIST CNN
+//RC row column configuration
+//PS padding and stride configuration.
+#RC 1 16
+#PS 1 1
+#CAP 0000
+// Column number 0
+1 -5 3 -2 -10 6 -3 0 3
+// Column number 1
+-2 3 3 3 -4 -3 -1 0 1
+// Column number 2
+12 -1 -8 -2 -6 -5 -10 -6 -2
+// Column number 3
+1 -4 8 3 5 5 -11 -15 -5
+// Column number 4
+1 0 3 -4 7 -2 6 1 -12
+// Column number 5
+1 -2 3 -4 -4 -2 -5 -1 0
+// Column number 6
+3 2 -1 -7 2 2 -5 4 5
+// Column number 7
+7 -7 -8 3 2 -1 -3 5 1
+// Column number 8
+-2 2 5 -7 -1 4 -6 -2 -10
+// Column number 9
+-8 -6 -6 1 -4 -9 6 4 9
+// Column number 10
+7 -3 -5 6 -5 -7 7 -4 -6
+// Column number 11
+-3 -1 -3 3 4 -8 -10 6 0
+// Column number 12
+2 0 0 2 3 -7 0 1 3
+// Column number 13
+-5 -12 -5 -9 -1 10 -4 7 0
+// Column number 14
+-8 -1 1 5 -2 1 4 2 4
+// Column number 15
+8 8 8 -6 -6 -4 -5 -8 -4

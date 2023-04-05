@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+data/
+
+# Temporary files
+my_drawing.png
